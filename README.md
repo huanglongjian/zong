@@ -11,3 +11,4 @@ Pipeline**: Configured GitHub Actions
 User guide**: Added installation instructions
 Optimization**: Implemented caching layer
 Security audit**: Added vulnerability checks
+i18n**: Added multilingual support
