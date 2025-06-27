@@ -10,3 +10,4 @@ Test suite**: Added Jest unit tests
 Pipeline**: Configured GitHub Actions
 User guide**: Added installation instructions
 Optimization**: Implemented caching layer
+Security audit**: Added vulnerability checks
