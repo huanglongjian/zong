@@ -7,3 +7,4 @@ Env setup**: Configured development environment
 Data models**: Defined MongoDB schemas
 Auth system**: Implemented JWT middleware
 Test suite**: Added Jest unit tests
+Pipeline**: Configured GitHub Actions
