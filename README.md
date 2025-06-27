@@ -4,3 +4,4 @@ Error framework**: Implemented custom error handlers
 Project layout**: Defined directory architecture
 UI components**: Added base React components
 Env setup**: Configured development environment
+Data models**: Defined MongoDB schemas
