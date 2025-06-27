@@ -9,3 +9,4 @@ Auth system**: Implemented JWT middleware
 Test suite**: Added Jest unit tests
 Pipeline**: Configured GitHub Actions
 User guide**: Added installation instructions
+Optimization**: Implemented caching layer
